@@ -29,14 +29,16 @@ header li a {
 }
 
 .container {
-    width: 1366px;
+    width: 1100px;
     margin: 0 auto;
+    padding: 0 2%;
 }
 
 .articles{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    text-align: justify;
 }
 
 .articles article img {
