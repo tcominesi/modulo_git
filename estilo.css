@@ -1,0 +1,14 @@
+time {
+	display: block;
+}
+
+.post {
+	margin-bottom: 24px;
+}
+
+.container, .col h2 {
+	background: #453c85;
+	color: white;
+	margin-bottom: 25px;
+	margin-top: 8px;
+}
